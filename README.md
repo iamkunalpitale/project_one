@@ -1,6 +1,6 @@
 # project_one
 
-A new Flutter project.
+Flutter Devcamp Bootcamp Assignment 1
 
 ## Getting Started
 
